@@ -23,6 +23,20 @@ The dataset contains 1,470 employee records and 35 columns covering employee dem
 - **Average Job Satisfaction:** Approximately 2.7
 - **Average Tenure:** Approximately 11.28 years
 
+
+## 🖼️ KPI Icons
+
+| KPI | Icon |
+|---|---|
+| Total Employees | ![Total Employees](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Total Employees Icon.png) |
+| Total Attrition | ![Total Attrition](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Total Attrition.png) |
+| Attrition Rate | ![Attrition Rate](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Attrition Rate Icon.png) |
+| Average Monthly Income | ![Average Monthly Income](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Avg of MonthlyIncome Icon.png) |
+| Job Satisfaction | ![Job Satisfaction](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Avg of Job Satisfaction Icon.png) |
+| Average Tenure | ![Average Tenure](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Avg of Tenure Icon.png) |
+
+
+
 ## 🔍 Key Insights
 - Overall employee attrition is approximately 16.1%.
 - Employees aged 15–30 have a higher attrition rate than the older age groups in this analysis.
