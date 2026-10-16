@@ -28,12 +28,12 @@ The dataset contains 1,470 employee records and 35 columns covering employee dem
 
 | KPI | Icon |
 |---|---|
-| Total Employees | ![Total Employees](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Total Employees Icon.png) |
-| Total Attrition | ![Total Attrition](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Total Attrition.png) |
-| Attrition Rate | ![Attrition Rate](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Attrition Rate Icon.png) |
-| Average Monthly Income | ![Average Monthly Income](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Avg of MonthlyIncome Icon.png) |
-| Job Satisfaction | ![Job Satisfaction](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Avg of Job Satisfaction Icon.png) |
-| Average Tenure | ![Average Tenure](C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Avg of Tenure Icon.png) |
+| Total Employees | (C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Total Employees Icon.png) |
+| Total Attrition | (C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Total Attrition.png) |
+| Attrition Rate | (C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Attrition Rate Icon.png) |
+| Average Monthly Income | (C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Avg of MonthlyIncome Icon.png) |
+| Job Satisfaction | (C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Avg of Job Satisfaction Icon.png) |
+| Average Tenure | (C:\Users\Ankita\OneDrive\Desktop\Excel Project\Project 1\KPIs Icons\Avg of Tenure Icon.png) |
 
 
 
